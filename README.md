@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/risinglf/mongoid-multitenancy-sidekiq.png?branch=master)](https://travis-ci.org/risinglf/mongoid-multitenancy-sidekiq)
+
 # Mongoid::Multitenancy::Sidekiq
 
 (Inspirated from Apartment::Sidekiq)
