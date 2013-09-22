@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/risinglf/mongoid-multitenancy-sidekiq.png?branch=master)](https://travis-ci.org/risinglf/mongoid-multitenancy-sidekiq)
+[![Coverage Status](https://coveralls.io/repos/risinglf/mongoid-multitenancy-sidekiq/badge.png)](https://coveralls.io/r/risinglf/mongoid-multitenancy-sidekiq)
 
 # Mongoid::Multitenancy::Sidekiq
 
